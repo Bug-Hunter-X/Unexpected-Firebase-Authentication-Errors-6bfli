@@ -1,0 +1,1 @@
+The Firebase Authentication SDK might throw an unexpected error if the provided credential is invalid or if there's a network issue during the sign-in process.  For example, an invalid email/password combination, or a missing internet connection, could result in an error that isn't easily caught or handled. The error message might not be very descriptive.
