@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Firebase Authentication where the SDK throws non-descriptive errors for invalid credentials or network problems. The example uses JavaScript. The solution shows how to improve error handling by implementing more robust checks and error message parsing.
